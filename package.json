@@ -1,0 +1,23 @@
+{
+  "name": "datafacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simsaini/Date-Facts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simsaini/Date-Facts/issues"
+  },
+  "homepage": "https://github.com/simsaini/Date-Facts#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  }
+}
